@@ -1,0 +1,26 @@
+body{
+    color: blue;
+}
+@media (min-width=319px) and (max-width=480px){
+    body{
+        color: lightsalmon;
+    }
+}
+
+@media (min-width=481px) and (max-width=1200px){
+    body{
+        color: powderblue;
+    }
+}
+
+@media (min-width=1201px) and (max-width=1600px){
+    body{
+        color: limegreen;
+    }
+}
+
+@media (min-width=1601px){
+    body{
+        color: seagreen;
+    }
+}

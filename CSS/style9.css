@@ -1,0 +1,21 @@
+.red{
+    color: white;
+    background-color: red;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+.green{
+    color: white;
+    background-color: green;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+.blue{
+    color: white;
+    background-color: blue;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}

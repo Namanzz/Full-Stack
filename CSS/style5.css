@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+.motivation{
+    margin: 40px 25%;
+    width: 50%;
+}
+h1{
+    color: white;
+    text-align: center;
+    /* padding-left: 50px; */
+    text-transform: uppercase;
+}
+p{
+    /* width: 20em; */
+    color: white;
+    text-align: center;
+    /* padding-left: 30px; */
+}
+img{
+    width: 100%;
+}

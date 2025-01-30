@@ -1,0 +1,16 @@
+{
+  "name": "qrcodegenerator",
+  "version": "1.0.0",
+  "description": "Generating QR Code with the help of inquire and qr-image",
+  "main": "qr.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naman",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^12.3.2",
+    "qr-image": "^3.2.0"
+  }
+}

@@ -1,0 +1,22 @@
+#coral{
+    color: coral;
+}
+#size{
+    font-size: 2rem;
+}
+#weight{
+    font-weight: 900;
+}
+#family{
+    font-family: "Caveat", serif;
+    font-weight: 400;
+}
+#align{
+    text-align: right;
+}
+html{
+    font-size: 30px;
+}
+body{
+    background-color: aquamarine;
+}

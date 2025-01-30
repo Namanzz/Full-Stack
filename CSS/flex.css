@@ -1,0 +1,44 @@
+/* .container{
+    display: flex;
+    gap: 1rem;
+    background-color: yellow;
+}
+.container>p{
+    font-weight: bold;
+}
+.box{
+    color: blue;
+    text-decoration: underline;
+} */
+
+.rainbow{
+    display: flex;
+    flex-direction: column;
+    border: 5px solid black;
+    width: 60px;
+}
+.rainbow div{
+    flex-basis: 100px;
+    color: white;
+}
+.red{
+    background-color: red;
+}
+.orange{
+    background-color: orange;
+}
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.indigo{
+    background-color: indigo;
+}
+.violet{
+    background-color: violet;
+}

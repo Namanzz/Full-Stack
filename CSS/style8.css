@@ -1,0 +1,30 @@
+.flag{
+    width: 900px;
+    height: 600px;
+    background-color: darkred;
+    position: relative;
+}
+.flag>p{
+    text-align: center;
+    font-size: 80px;
+    color: white;
+}
+.flag > div{
+    background-color: darkblue;
+    height: 50%;
+    position: relative;
+    bottom: 30px;
+}
+.flag > div > div{
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: relative;
+    top: 50px;
+    left: 350px;
+}
+.flag > div > div > p{
+    text-align: center;
+    font-size: 80px;
+}

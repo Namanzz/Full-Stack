@@ -1,0 +1,20 @@
+/* Group Selector */
+h1, h2{
+    color: blueviolet;
+}
+/* Parent > Child Selector */
+.box > p{
+    color: firebrick;
+}
+/* Descendent Selector --> anscestor descendant */
+.box li{
+    color: blue;
+}
+/* Chaining Selector */
+li.done{
+    color: seagreen;
+}
+/* Combining Combiners */
+ul p.done{
+    font-size: 0.5rem;
+}

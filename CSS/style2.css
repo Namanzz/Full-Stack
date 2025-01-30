@@ -1,0 +1,31 @@
+p{
+    color: red;
+}
+
+.note{
+    font-size: 20px;
+}
+
+#first{
+    color: green;
+}
+
+li[value="4"]{
+    color: blue;
+}
+li[value="2"]{
+    background-color: aqua;
+}
+
+*{
+    text-align: center;
+}
+
+ol{
+    margin-left: -40px;
+    margin-top: -20px;
+    list-style-position: inside;
+}
+body{
+    background-color: bisque;
+}
