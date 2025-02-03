@@ -8,7 +8,7 @@ app.get("/", (req,res)=>{
     const day=today.getDay();
 
     let type="a weekday";
-    let adv=" it's timetowork hard.";
+    let adv=" it's time to work hard.";
 
     if(day===0||day===6){
         type="a weekend";
