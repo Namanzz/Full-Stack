@@ -11,8 +11,8 @@ app.get("/", (req,res)=>{
     let adv=" it's time to work hard.";
 
     if(day===0||day===6){
-        type="a weekend";
-        adv=" it's time to relax.";
+        type="the weekend";
+        adv=" it's time to have some fun.";
     }
 
 
